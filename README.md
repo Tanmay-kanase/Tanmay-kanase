@@ -1,16 +1,138 @@
-# 💫 About Me:
-👋 Hi, Myself Tanmay Kanase<br>I’m a passionate developer currently learning the MERN stack (MongoDB, Express, React, Node.js). I'm also exploring the world of Docker, Kubernetes, and AWS to build scalable, cloud-native applications.<br><br>💻 What I’m Exploring :<br><br>    Building full-stack web applications with the MERN stack<br>    Exploring containerization and orchestration with Docker and Kubernetes<br>    Learning how to deploy and manage cloud infrastructure on AWS<br><br>🌱 What I’m learning:<br><br>    Advanced DevOps tools and workflows<br>    Cloud architecture and services on AWS<br>    Automation of infrastructure using Infrastructure-as-Code (IaC) techniques<br><br>🤝 Let’s connect:<br>Feel free to check out my repositories, collaborate, or share your thoughts on any projects!
+# 💫 About Me
 
+👋 Hi, I'm **Tanmay Kanase**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanmay-kanase&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-kanase&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-kanase&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+🎓 Computer Engineering Undergraduate (CGPA: **9.45**) passionate about Full-Stack Development, Cloud Computing, DevOps, AI Applications, and IoT Systems.
+
+💼 Currently working as a **Software Development Intern**, building AI-powered applications using **Spring Boot, PostgreSQL, REST APIs, and Local LLMs**.
+
+🚀 I enjoy developing scalable applications, optimizing system performance, and solving real-world engineering problems through modern technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tanmay-kanase&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay-kanase&layout=compact&hide=html&theme=radical)
+## 🔥 Current Focus
+
+* Full Stack Development (React, Node.js, Spring Boot)
+* Cloud Computing & AWS
+* Docker & Kubernetes
+* AI-Powered Applications
+* Flutter Mobile Development
+* System Design & Backend Engineering
+
+---
+
+## 🏆 Achievements
+
+🥇 1st Place – College-Level Blind Coding Competition
+
+🔥 Maintained a 100-Day LeetCode Streak
+
+📈 CGPA: 9.45 / 10
+
+💼 Software Development Intern at Sumago Infotech Pvt. Ltd.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧊 Smart Cold Storage Monitoring System
+
+An IoT-based monitoring platform using ESP32, Flutter, Node.js, MongoDB, WebSockets, and Firebase Cloud Messaging.
+
+**Highlights**
+
+* Real-time sensor monitoring
+* Live WebSocket communication
+* Firebase Push Notifications
+* ESP32-based automation
+
+---
+
+### 🚗 Smart Parking Management System
+
+A full-stack parking management platform with Android and Web support.
+
+**Highlights**
+
+* React + Spring Boot architecture
+* Redis caching and locking
+* MongoDB Geospatial Indexing
+* Google Maps Integration
+* Dockerized deployment
+* AWS EC2 deployment
+
+---
+
+### 🤖 AI-Powered Chatbot
+
+Built during internship using:
+
+* Spring Boot
+* PostgreSQL
+* REST APIs
+* Ollama
+* Gemma 3
+
+Features session management, chat history storage, and AI-powered conversations.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Tanmay-kanase\&theme=tokyonight\&hide_border=true\&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-kanase\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-kanase\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+📧 [tanmaykanase06@gmail.com](mailto:tanmaykanase06@gmail.com)
+
+💼 LinkedIn: Your LinkedIn URL
+
+🌐 Portfolio: Your Portfolio URL
+
+⭐ Open to Software Development, Backend Engineering, Cloud, DevOps, and Full-Stack opportunities.
