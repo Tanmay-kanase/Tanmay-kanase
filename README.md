@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Tanmay Kanase**
 
-🎓 Computer Engineering Undergraduate (CGPA: **9.45**) passionate about Full-Stack Development, Cloud Computing, DevOps, AI Applications, and IoT Systems.
+🎓 Computer Engineering Undergraduate passionate about Full-Stack Development, Cloud Computing, DevOps, AI Applications, and IoT Systems.
 
 💼 Currently working as a **Software Development Intern**, building AI-powered applications using **Spring Boot, PostgreSQL, REST APIs, and Local LLMs**.
 
