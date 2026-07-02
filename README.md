@@ -57,7 +57,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanmay-kanase\&theme=tokyonight\&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-kanase\&layout=compact\&theme=tokyonight\&hide_border=true)
-![](https://metrics.lecoq.io/Tanmay-kanase)
+
 ---
 
 ## 🔥 Current Focus
