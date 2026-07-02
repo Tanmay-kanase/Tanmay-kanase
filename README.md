@@ -131,8 +131,8 @@ Features session management, chat history storage, and AI-powered conversations.
 
 📧 [tanmaykanase06@gmail.com](mailto:tanmaykanase06@gmail.com)
 
-💼 LinkedIn: Your LinkedIn URL
+💼 LinkedIn: (https://www.linkedin.com/in/tanmay-kanase/)
 
-🌐 Portfolio: Your Portfolio URL
+🌐 Portfolio: (https://tanmay-portfolio-p1of.onrender.com/)
 
 ⭐ Open to Software Development, Backend Engineering, Cloud, DevOps, and Full-Stack opportunities.
